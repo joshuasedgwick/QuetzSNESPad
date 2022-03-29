@@ -77,7 +77,7 @@
     transform: rotate(90deg);
 }
 .custom .face.pressed{
-    background: url(https://github.com/joshuasedgwick/QuetzSNESPad/blob/main/snes-black.svg);
+    background: url(https://raw.githubusercontent.com/joshuasedgwick/QuetzSNESPad/main/snes-black.svg);
     background-position-x: -1323px;
 }
 
